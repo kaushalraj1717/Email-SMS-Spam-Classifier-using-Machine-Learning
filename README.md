@@ -8,7 +8,7 @@ This project highlights practical skills in **Machine Learning, Text Processing,
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Spam messages are a common problem in communication systems and can lead to **security risks and user inconvenience**.
 
@@ -18,7 +18,7 @@ The application allows users to **enter a message and instantly receive a predic
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - Classifies messages as **Spam** or **Not Spam**
 - Text preprocessing using NLP techniques
@@ -30,7 +30,7 @@ The application allows users to **enter a message and instantly receive a predic
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python  
 - Pandas  
@@ -43,7 +43,7 @@ The application allows users to **enter a message and instantly receive a predic
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Email-SMS-Spam-Classifier/
 │
@@ -54,7 +54,7 @@ Email-SMS-Spam-Classifier/
 ├── spam.csv # Dataset
 └── README.md # Project documentation
 
-## 🔍 Model Workflow
+## Model Workflow
 
 The model follows a standard Natural Language Processing pipeline:
 
@@ -69,7 +69,7 @@ The model follows a standard Natural Language Processing pipeline:
 
 ---
 
-## 🧹 Text Preprocessing
+## Text Preprocessing
 
 The text data is processed using several NLP techniques to improve model performance.
 
@@ -83,7 +83,7 @@ These include:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset used in this project contains labeled SMS messages categorized into:
 
@@ -94,22 +94,20 @@ This dataset is commonly used for spam detection tasks in **Machine Learning** a
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 The trained model achieves high accuracy in detecting spam messages.
 
 **Example evaluation metrics:**
 
 - Accuracy: **97%**  
-- Precision: **96%**  
-- Recall: **95%**  
-- F1 Score: **95%**  
+- Precision: **1**   
 
 > Update these values based on your actual model results.
 
 ---
 
-## 🌐 Application Interface
+## Application Interface
 
 The Streamlit application provides a simple interface where users can:
 
@@ -121,7 +119,7 @@ This demonstrates the deployment of a machine learning model into a usable web a
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Add support for Email spam detection  
 - Improve model accuracy with advanced algorithms  
